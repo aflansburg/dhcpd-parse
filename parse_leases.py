@@ -1,5 +1,7 @@
 import os, sys, re
 
+## Command line arguments (filepath as 'fp') ##
+
 if len(sys.argv) == 2:
     fp = str(sys.argv[1])
 elif len(sys.argv) > 2:
