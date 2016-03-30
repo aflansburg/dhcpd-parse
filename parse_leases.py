@@ -1,5 +1,7 @@
 ## Had some help with the regex from some StackOverflow folks ##
 
+# test comment #
+
 import sys, re
 
 fp = '/Users/misaflansb/Dropbox/ERMCO/Network/DHCP-Info/dhcpd.leases'
