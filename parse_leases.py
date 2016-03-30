@@ -1,4 +1,4 @@
-__author__ = 'misaflansb'
+## Had some help with the regex from some StackOverflow folks ##
 
 import sys, re
 
